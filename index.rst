@@ -1,7 +1,7 @@
 Scientific Applications on Purdue RCAC Clusters and ACCESS Anvil
 ==============================================
 .. |Anvil| image:: images/anvil.jpg
-   :width: 80%
+   :width: 90%
 
 |Anvil| 
 
@@ -15,7 +15,6 @@ This is the list of Applications, Compilers, MPIs, NVIDIA NGC containers, and bi
 .. toctree::
    :maxdepth: 2
 
-   FAQs
    Compilers
    MPIs
    Applications
