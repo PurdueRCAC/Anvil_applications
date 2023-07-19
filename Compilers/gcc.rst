@@ -10,6 +10,7 @@ The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran
 Versions
 ~~~~~~~~
 - 8.4.1
+- 10.2.0
 - 11.2.0
 - 11.2.0-openacc
 
