@@ -1,7 +1,6 @@
-Scientific Applications on Purdue RCAC Clusters and ACCESS Anvil
+Scientific Applications on ACCESS Anvil
 ==============================================
 .. |Anvil| image:: images/anvil.jpg
-   :width: 90%
 
 |Anvil| 
 
