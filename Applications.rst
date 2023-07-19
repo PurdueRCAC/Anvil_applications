@@ -136,9 +136,11 @@ Mathematical/Statistics
    :titlesonly:
 
    Applications/gurobi
+   Applications/jupyter
    Applications/matlab
    Applications/meep
    Applications/octave
+   Applications/r
    Applications/rstudio
 
 ML toolkit
@@ -226,6 +228,3 @@ Workflow automation
    Applications/nextflow
    Applications/parallel
 
-
-Applications/jupyter
-Applications/r
