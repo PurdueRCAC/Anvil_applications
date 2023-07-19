@@ -1,0 +1,19 @@
+.. _backbone-label:
+
+impi
+==============================
+
+Description
+~~~~~~~~
+Intel MPI
+
+Versions
+~~~~~~~~
+- Anvil: 2019.5.281
+
+Module
+~~~~~~~~
+You can load the modules by::
+
+    module load impi
+

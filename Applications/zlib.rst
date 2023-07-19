@@ -1,0 +1,19 @@
+.. _backbone-label:
+
+zlib
+==============================
+
+Description
+~~~~~~~~
+A free, general-purpose, legally unencumbered lossless data-compression library.
+
+Versions
+~~~~~~~~
+- 1.2.11
+
+Module
+~~~~~~~~
+You can load the modules by::
+
+    module load zlib
+

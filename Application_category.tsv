@@ -1,0 +1,130 @@
+amber	Computational chemistry
+amdblis	AMD
+amdfftw	AMD
+amdlibflame	AMD
+amdlibm	AMD
+amdscalapack	AMD
+anaconda	Tools/Utilities
+arpack-ng	Libraries
+aws-cli	Tools/Utilities
+bamtools	Bioinformatics
+beagle	Bioinformatics
+beast2	Bioinformatics
+bismark	Bioinformatics
+blast-plus	Bioinformatics
+blis	Libraries
+boost	Libraries
+bowtie2	Bioinformatics
+bwa	Bioinformatics
+cdo	Climate
+cmake	Tools/Utilities
+cp2k	Computational chemistry
+cuda	NVIDIA
+cudnn	NVIDIA
+cue-login-env	System
+cufflinks	Bioinformatics
+curl	Tools/Utilities
+cutadapt	Bioinformatics
+eigen	Libraries
+emacs	Tools/Utilities
+fastqc	Bioinformatics
+fasttree	Bioinformatics
+fastx-toolkit	Bioinformatics
+ffmpeg	Audio/Visualization
+fftw	Libraries
+gatk	Bioinformatics
+gdal	Geospatial tools
+gdb	Tools/Utilities
+geos	Geospatial tools
+gmp	Libraries
+gmt	Audio/Visualization
+gnuplot	Audio/Visualization
+gpaw	Tools/Utilities
+grads	Geospatial tools
+gromacs	Computational chemistry
+gsl	Libraries
+gurobi	Mathematical/Statistics
+hadoop	Tools/Utilities
+hdf5	Libraries
+hdf	Libraries
+hpctoolkit	Tools/Utilities
+htseq	Bioinformatics
+hwloc	Tools/Utilities
+hyper-shell	Workflow automation
+intel-mkl	Libraries
+julia	Programming languages
+lammps	Computational chemistry
+launcher	Tools/Utilities
+learning	ML toolkit
+libfabric	Libraries
+libflame	Libraries
+libiconv	Libraries
+libmesh	Libraries
+libszip	Libraries
+libtiff	Libraries
+libv8	Libraries
+libx11	Libraries
+libxml2	Libraries
+matlab	Mathematical/Statistics
+meep	Mathematical/Statistics
+modtree	System
+monitor	Tools/Utilities
+mpc	Tools/Utilities
+mpfr	Libraries
+mrbayes	Bioinformatics
+namd	Computational chemistry
+nccl	NVIDIA
+ncl	Climate
+nco	ML toolkit
+ncview	Tools/Utilities
+netcdf-c	Libraries
+netcdf-cxx4	Libraries
+netcdf-fortran	Libraries
+netlib-lapack	Libraries
+nextflow	Workflow automation
+nf-core	Bioinformatics
+numactl	Tools/Utilities
+nvhpc	NVIDIA
+nwchem	Computational chemistry
+octave	Mathematical/Statistics
+openblas	Libraries
+openfoam	Fluid dynamics
+openjdk	Tools/Utilities
+papi	Tools/Utilities
+parafly	Tools/Utilities
+parallel-netcdf	Libraries
+parallel	Workflow automation
+paraview	Audio/Visualization
+perl-bioperl	Bioinformatics
+petsc	Libraries
+picard	Bioinformatics
+proj	Geospatial tools
+protobuf	Tools/Utilities
+py-mpi4py	ML toolkit
+python	ML toolkit
+qemu	Tools/Utilities
+qt	Tools/Utilities
+quantum-espresso	Computational chemistry
+rstudio	Mathematical/Statistics
+samtools	Bioinformatics
+spark	ML toolkit
+sratoolkit	Bioinformatics
+swig	Libraries
+tcl	Programming languages
+texlive	Tools/Utilities
+tk	Tools/Utilities
+tophat	Bioinformatics
+totalview	Tools/Utilities
+trimmomatic	Bioinformatics
+ucx	Libraries
+valgrind	Tools/Utilities
+vasp	Computational chemistry
+vcftools	Bioinformatics
+visit	Audio/Visualization
+vlc	Audio/Visualization
+vmd	Computational chemistry
+vscode	Text Editors
+vtk	Audio/Visualization
+wannier90	Computational chemistry
+xalt	System
+zlib	Libraries
