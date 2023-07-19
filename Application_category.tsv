@@ -53,6 +53,7 @@ hwloc	Tools/Utilities
 hyper-shell	Workflow automation
 intel-mkl	Libraries
 julia	Programming languages
+jupyter	Mathematical/Statistics
 lammps	Computational chemistry
 launcher	Tools/Utilities
 learning	ML toolkit
@@ -105,6 +106,7 @@ python	ML toolkit
 qemu	Tools/Utilities
 qt	Tools/Utilities
 quantum-espresso	Computational chemistry
+r	Mathematical/Statistics
 rstudio	Mathematical/Statistics
 samtools	Bioinformatics
 spark	ML toolkit

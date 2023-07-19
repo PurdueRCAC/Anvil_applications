@@ -9,7 +9,7 @@ Mvapich2 is a High-Performance MPI Library for clusters with diverse networks In
 
 Versions
 ~~~~~~~~
-- Anvil: 2.3.6
+- 2.3.6
 
 Module
 ~~~~~~~~

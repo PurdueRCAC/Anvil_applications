@@ -9,7 +9,9 @@ The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran
 
 Versions
 ~~~~~~~~
-- Anvil: 8.4.1, 11.2.0, 11.2.0-openacc
+- 8.4.1
+- 11.2.0
+- 11.2.0-openacc
 
 Module
 ~~~~~~~~

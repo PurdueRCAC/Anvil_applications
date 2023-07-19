@@ -9,7 +9,8 @@ An open source Message Passing Interface implementation.
 
 Versions
 ~~~~~~~~
-- Anvil: 3.1.6, 4.0.6
+- 3.1.6
+- 4.0.6
 
 Module
 ~~~~~~~~

@@ -9,7 +9,7 @@ Intel Parallel Studio.
 
 Versions
 ~~~~~~~~
-- Anvil: 19.0.5.281
+- 19.0.5.281
 
 Module
 ~~~~~~~~

@@ -9,7 +9,7 @@ Intel MPI
 
 Versions
 ~~~~~~~~
-- Anvil: 2019.5.281
+- 2019.5.281
 
 Module
 ~~~~~~~~

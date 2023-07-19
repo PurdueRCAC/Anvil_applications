@@ -85,8 +85,6 @@ do
         subindexfile=${eachfolderwithspaces::-1}.rst
         if [ "$eachfolder" == "NGC/" ]; then
             echo "NVIDIA NGC containers" > $subindexfile
-        elif [ "$eachfolder" == "ROCm/" ]; then
-            echo "AMD ROCm containers" > $subindexfile
         else
             echo ${eachfolderwithspaces::-1} > $subindexfile
         fi
@@ -102,6 +100,8 @@ do
         for eachfile in $filenamesarray
         do
             sed -i "/\b\(Bell\|Brown\|Gilbreth\|Negishi\|Scholar\|Workbench\)\b/d" ${sourcefolder}/$eachfile
+            sed -i '/- Anvil:/s/, /\n- /g' ${sourcefolder}/$eachfile
+            sed -i 's/Anvil: //g' ${sourcefolder}/$eachfile
             eachfile=${eachfile::-4}
             echo "   $eachfolder""$eachfile" >> $subindexfile
         done 
