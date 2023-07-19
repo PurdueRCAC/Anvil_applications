@@ -20,6 +20,7 @@ You can load the modules by::
 
 Example job
 ~~~~~~~~~~~
+Below is an example job script::
 
     #!/bin/bash
     #SBATCH -A myallocation     # Allocation name 
@@ -32,7 +33,6 @@ Example job
     #SBATCH --mail-type=FAIL,BEGIN,END
     #SBATCH --error=%x-%J-%u.err
     #SBATCH --output=%x-%J-%u.out
-
 
     module --force purge
     module load learning/conda-2020.11-py38-gpu
