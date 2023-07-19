@@ -1,9 +1,9 @@
 Scientific Applications on Purdue RCAC Clusters and ACCESS Anvil
 ==============================================
 .. |Anvil| image:: images/anvil.jpg
-   :width: 100%
+   :width: 80%
 
-|Anvil| |Negishi|
+|Anvil| 
 
 
 This is the list of Applications, Compilers, MPIs, NVIDIA NGC containers, and biocontainers deployed on ACCESS `Anvil`_ that is managed by Rosen Center for Advanced Computing (`RCAC`_) clusters at Purdue University.
